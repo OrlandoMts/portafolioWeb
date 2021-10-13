@@ -12,6 +12,10 @@
     min-width: 320px;
     width: 100%;
     overflow-y: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
 }
 
 .header__menu--nav {

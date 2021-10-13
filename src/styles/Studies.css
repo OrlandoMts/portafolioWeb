@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.section__container--studies {
+    min-width: 320px;
+    width: 100%;
+    height: 480px;
+    padding: 15px 20px;
+    background-color: #2e5a3d;
+    color: #fef1cc;
+}
+
+.section__container--studies .div__title {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.div__card--info .div__card--info-isc {
+    font-weight: bold;
+}
+
+.div__card--info .div__card--info-profesional {
+    font-weight: lighter;
+}
+
+.section__container--studies .div__card--info {
+    position: relative;
+    border: 2px solid gray;
+    border-radius: 7px;
+}
+
+.div__card--info .div__card--info-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 10px;
+    position: absolute;
+    top: -30px;
+    right: calc(50% - 129px);
+    background-color: #2e5a3d;
+}
+
+.div__card--info .div__card--info-description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: end;
+    height: 245px;
+    justify-content: flex-end;
+    padding: 25px 0px;
+}
+
+.div__card--info-description .div__card--info-date{
+    font-weight: 300;
+    font-style: italic;
+}
+
+.div__card--info-description .div__card--info-isc {
+    font-weight: bold;
+}
+.div__card--info-description .div__card--info-slogan{
+    margin: 20px;
+}
+
+.fas .fa-medal {
+    width: 20px;
+    height: 20px;
+}
+
+@media screen and (min-width: 600px){
+    .section__container--studies .div__card--info {
+        width: 400px;
+        margin: 0 auto;
+    }
+    .section__container--studies .div__title h2 {
+        font-size: 40px;
+    }
+}

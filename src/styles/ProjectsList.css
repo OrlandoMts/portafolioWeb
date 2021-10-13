@@ -1,0 +1,31 @@
+.section__projectsList {
+    background-color: #fef1cc;
+    min-width: 320px;
+    width: 100%;
+}
+
+.section__projectsList h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: #2e5a3d;
+    font-size: 40px;
+}
+
+section .ul__projectsList {
+    min-width: 320px;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 15px;
+    list-style: none;
+    color: #2e5a3d;
+}
+
+@media screen and (min-width: 600px) {
+    section .ul__projectsList {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}

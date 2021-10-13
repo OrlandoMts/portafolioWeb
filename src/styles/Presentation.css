@@ -8,6 +8,8 @@
     display: flex;
     background-color: #fef1cc;
     padding: 15px 20px;
+    min-width: 320px;
+    width: 100%;
 }
 
 .section__container--information {
@@ -49,10 +51,11 @@ button {
     border-color: black;
 }
 
-@media all and (min-width: 600px){
+@media screen and (min-width: 600px){
     .section__container {
         flex-direction: row;
         justify-content: space-between;
+        padding: 0px 40px;
     }
 
     .section__container--information {
@@ -82,7 +85,7 @@ button {
     }
 
     section .div__container--btn {
-        margin-right: 40px;
+        margin-right: 45px;
     }
 
     button {
