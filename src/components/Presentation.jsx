@@ -1,13 +1,17 @@
 import React from 'react';
-import '../styles/Presentation.css'
+import '../styles/Presentation.css';
+import { PortafolioContext } from './PortafolioContext';
 
 function Presentation() {
 
-    const btnCa = () => {
-        console.log("abrir el modal del formulario")
+    const {openModal, setOpenModal} = React.useContext(PortafolioContext);
+
+    const btnCA = () => {
+        setOpenModal(!openModal);
     }
+
     return (
-        <section className="section__container">
+        <section id="home" className="section__container">
             <div className="section__container--information">
                 <h2>¡Hola!</h2>
                 <h1>soy Orlando Montes</h1>
@@ -16,7 +20,7 @@ function Presentation() {
                     Una gran motivación por seguir perfeccionando mis habilidades, crecer profesionalmente y nunca parar de aprender; son aspectos que determinan mi ruta profesional
                 </p>
                 <div className="div__container--btn">
-                    <button onClick={btnCa}>Contactame</button>
+                    <button onClick={btnCA}>Contactame</button>
                 </div>
             </div>
             <div className="section__container--picture" hidden>

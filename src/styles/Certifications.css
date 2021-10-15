@@ -1,0 +1,49 @@
+.section__container--certications {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 320px;
+    width: 100%;
+    padding: 30px 0px;
+    background-color: #2e5a3d;
+    color: #fef1cc;
+}
+
+.section__container--certications h2 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+.section__container--certications .table__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    width: 90%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 20px;
+    box-shadow: 0px 5px 50px rgba(32, 35, 41, 0.15);
+}
+
+.section__container--certications .table__container .section__table--certications {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px 15px;
+}
+
+h4 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.table--column p {
+    text-align: center;
+    font-weight: 300;
+}
+
+@media screen and (min-width: 600px){
+    .section__container--certications .table__container {
+        width: 80%;
+    }
+}

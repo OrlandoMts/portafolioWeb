@@ -66,9 +66,9 @@
     margin: 20px;
 }
 
-.fas .fa-medal {
-    width: 20px;
-    height: 20px;
+.div__card--info-medal {
+    width: 30px;
+    height: 30px;
 }
 
 @media screen and (min-width: 600px){

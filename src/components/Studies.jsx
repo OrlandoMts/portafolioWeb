@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Studies.css';
+import medalla from '../assets/icons/medal-solid.svg';
 
 function Studies() {
     return (
@@ -16,7 +17,7 @@ function Studies() {
                     <p className="div__card--info-date">(2016-2021)</p>
                     <p className="div__card--info-tec">Instituto Tecnológico de Ciudad Madero</p>
                     <p className="div__card--info-slogan">Formar profesionistas altamente competitivos en las tecnologías de la computación a través de procesos educativos de calidad</p>
-                    <p>Icono de medalla</p>
+                    <img className="div__card--info-medal" src={medalla} alt="medal" />
                 </div>
             </div>
         </section>

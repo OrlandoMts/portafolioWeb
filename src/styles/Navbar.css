@@ -18,6 +18,16 @@
     z-index: 1;
 }
 
+.header__logo {
+    display: flex;
+    align-items: center;
+}
+
+.header__logo img {
+    width: 50px;
+    height: 30px;
+}
+
 .header__menu--nav {
     display: flex;
     list-style: none;
