@@ -17,12 +17,22 @@ function App() {
   // const {openModal, setOpenModal} = React.useContext(PortafolioContext);
 
   const [openModal, setOpenModal] = React.useState(false);
+  const [name, setName] = React.useState('');
+  const [mail, setMail] = React.useState('');
+  const [message, setMessage] = React.useState('');
+
   return (
     <React.Fragment>
       
         <PortafolioContext.Provider value={{
             openModal,
             setOpenModal,
+            name,
+            setName,
+            mail,
+            setMail,
+            message,
+            setMessage,
         }}>
             <Navbar />
             <Presentation />

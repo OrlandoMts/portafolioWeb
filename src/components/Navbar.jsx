@@ -7,7 +7,8 @@ function Navbar() {
 
     const {openModal, setOpenModal} = React.useContext(PortafolioContext);
 
-    const btnCA = () => {
+    const btnCA = (e) => {
+        e.preventDefault();
         setOpenModal(!openModal);
     }
 

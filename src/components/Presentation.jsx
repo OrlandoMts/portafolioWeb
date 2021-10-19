@@ -24,7 +24,6 @@ function Presentation() {
                 </div>
             </div>
             <div className="section__container--picture" hidden>
-                <h3>Mi foto...</h3>
             </div>
         </section>
     )

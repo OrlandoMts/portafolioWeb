@@ -68,7 +68,12 @@ button {
         display: block;
         width: 35%;
         height: 350px;
-        background-color: blue;
+        background-image: url('../assets/img/undraw_Developer_activity_re_39tg.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        position: absolute;
+        top: 120px;
+        right: 0px;
     }
 
     .section__container--information h2 {
