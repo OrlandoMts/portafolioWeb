@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portafolioWeb/static/css/main.a5e472fa.chunk.css",
+    "main.js": "/portafolioWeb/static/js/main.3c09e0c5.chunk.js",
+    "main.js.map": "/portafolioWeb/static/js/main.3c09e0c5.chunk.js.map",
+    "runtime-main.js": "/portafolioWeb/static/js/runtime-main.b2b44885.js",
+    "runtime-main.js.map": "/portafolioWeb/static/js/runtime-main.b2b44885.js.map",
+    "static/js/2.61d6dbbe.chunk.js": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js",
+    "static/js/2.61d6dbbe.chunk.js.map": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js.map",
+    "index.html": "/portafolioWeb/index.html",
+    "static/css/main.a5e472fa.chunk.css.map": "/portafolioWeb/static/css/main.a5e472fa.chunk.css.map",
+    "static/js/2.61d6dbbe.chunk.js.LICENSE.txt": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.cff8e8e4.png": "/portafolioWeb/static/media/bitcoin.cff8e8e4.png",
+    "static/media/crowfounding.194a0d08.png": "/portafolioWeb/static/media/crowfounding.194a0d08.png",
+    "static/media/fighter-jet-solid.8fc1df02.svg": "/portafolioWeb/static/media/fighter-jet-solid.8fc1df02.svg",
+    "static/media/github-brands.e2f07326.svg": "/portafolioWeb/static/media/github-brands.e2f07326.svg",
+    "static/media/instagram-brands.90a80cd5.svg": "/portafolioWeb/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/insure.69a52610.png": "/portafolioWeb/static/media/insure.69a52610.png",
+    "static/media/lego.29ab3cef.png": "/portafolioWeb/static/media/lego.29ab3cef.png",
+    "static/media/linkedin-brands.f4041044.svg": "/portafolioWeb/static/media/linkedin-brands.f4041044.svg",
+    "static/media/medal-solid.464d2ce1.svg": "/portafolioWeb/static/media/medal-solid.464d2ce1.svg",
+    "static/media/recipes.f06b6cdf.png": "/portafolioWeb/static/media/recipes.f06b6cdf.png",
+    "static/media/rick-morty.52bae651.png": "/portafolioWeb/static/media/rick-morty.52bae651.png",
+    "static/media/todo.8a9be6ef.png": "/portafolioWeb/static/media/todo.8a9be6ef.png",
+    "static/media/Presentation.css": "/portafolioWeb/static/media/undraw_Developer_activity_re_39tg.f3bd0b87.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b44885.js",
+    "static/js/2.61d6dbbe.chunk.js",
+    "static/css/main.a5e472fa.chunk.css",
+    "static/js/main.3c09e0c5.chunk.js"
+  ]
+}
