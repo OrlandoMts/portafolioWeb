@@ -5,12 +5,20 @@ import recipes from "../assets/img/recipes.png";
 import rickandmorty from "../assets/img/rick-morty.png";
 import todo from "../assets/img/todo.png";
 import insure from "../assets/img/insure.png";
+import eshop from "../assets/img/eshop.png";
 
 export const projects = [
     {
+      'img': eshop,
+      'title': 'eShop',
+      'desc': 'Esta pequeña tienda fue hecha con ReactJS, lo mejor de este proyecto fue que aprendí a menejar rutas y context',
+      'sitio': 'https://eshop-nov21.web.app/',
+      'repo': 'https://github.com/OrlandoMts/eShop',
+    },
+    {
       'img': todo,
       'title': 'ToDo App',
-      'desc': 'Esta apßlicacion fue hecha con ReactJS y lo que hace es guardar tareas por hacer en el localstorage.',
+      'desc': 'Esta aplicación fue hecha con ReactJS y lo que hace es guardar tareas por hacer en el localstorage.',
       'sitio': 'https://orlandomts.github.io/todoApp/',
       'repo': 'https://github.com/OrlandoMts/todoApp',
     },
