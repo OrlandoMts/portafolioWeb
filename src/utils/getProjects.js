@@ -6,8 +6,16 @@ import rickandmorty from "../assets/img/rick-morty.png";
 import todo from "../assets/img/todo.png";
 import insure from "../assets/img/insure.png";
 import eshop from "../assets/img/eshop.png";
+import sneakers from "../assets/img/sneakers.png"
 
 export const projects = [
+    {
+      'img': sneakers,
+      'title': 'Sneakers',
+      'desc': 'Sin duda, el que más me ha gustado hacer, descubri libreria de react para hacer carouseles',
+      'sitio': 'https://product-ecom.web.app/',
+      'repo': 'https://github.com/OrlandoMts/product-eshop',
+    },
     {
       'img': eshop,
       'title': 'eShop',
