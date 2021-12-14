@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolioWeb/static/css/main.a5e472fa.chunk.css",
-    "main.js": "/portafolioWeb/static/js/main.3c09e0c5.chunk.js",
-    "main.js.map": "/portafolioWeb/static/js/main.3c09e0c5.chunk.js.map",
+    "main.js": "/portafolioWeb/static/js/main.a0f9003b.chunk.js",
+    "main.js.map": "/portafolioWeb/static/js/main.a0f9003b.chunk.js.map",
     "runtime-main.js": "/portafolioWeb/static/js/runtime-main.b2b44885.js",
     "runtime-main.js.map": "/portafolioWeb/static/js/runtime-main.b2b44885.js.map",
     "static/js/2.61d6dbbe.chunk.js": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js",
@@ -12,6 +12,7 @@
     "static/js/2.61d6dbbe.chunk.js.LICENSE.txt": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js.LICENSE.txt",
     "static/media/bitcoin.cff8e8e4.png": "/portafolioWeb/static/media/bitcoin.cff8e8e4.png",
     "static/media/crowfounding.194a0d08.png": "/portafolioWeb/static/media/crowfounding.194a0d08.png",
+    "static/media/eshop.c85e0fb5.png": "/portafolioWeb/static/media/eshop.c85e0fb5.png",
     "static/media/fighter-jet-solid.8fc1df02.svg": "/portafolioWeb/static/media/fighter-jet-solid.8fc1df02.svg",
     "static/media/github-brands.e2f07326.svg": "/portafolioWeb/static/media/github-brands.e2f07326.svg",
     "static/media/instagram-brands.90a80cd5.svg": "/portafolioWeb/static/media/instagram-brands.90a80cd5.svg",
@@ -28,6 +29,6 @@
     "static/js/runtime-main.b2b44885.js",
     "static/js/2.61d6dbbe.chunk.js",
     "static/css/main.a5e472fa.chunk.css",
-    "static/js/main.3c09e0c5.chunk.js"
+    "static/js/main.a0f9003b.chunk.js"
   ]
 }
