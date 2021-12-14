@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolioWeb/static/css/main.a5e472fa.chunk.css",
-    "main.js": "/portafolioWeb/static/js/main.a0f9003b.chunk.js",
-    "main.js.map": "/portafolioWeb/static/js/main.a0f9003b.chunk.js.map",
+    "main.js": "/portafolioWeb/static/js/main.6a227cf7.chunk.js",
+    "main.js.map": "/portafolioWeb/static/js/main.6a227cf7.chunk.js.map",
     "runtime-main.js": "/portafolioWeb/static/js/runtime-main.b2b44885.js",
     "runtime-main.js.map": "/portafolioWeb/static/js/runtime-main.b2b44885.js.map",
     "static/js/2.61d6dbbe.chunk.js": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/medal-solid.464d2ce1.svg": "/portafolioWeb/static/media/medal-solid.464d2ce1.svg",
     "static/media/recipes.f06b6cdf.png": "/portafolioWeb/static/media/recipes.f06b6cdf.png",
     "static/media/rick-morty.52bae651.png": "/portafolioWeb/static/media/rick-morty.52bae651.png",
+    "static/media/sneakers.9b48b4a3.png": "/portafolioWeb/static/media/sneakers.9b48b4a3.png",
     "static/media/todo.8a9be6ef.png": "/portafolioWeb/static/media/todo.8a9be6ef.png",
     "static/media/Presentation.css": "/portafolioWeb/static/media/undraw_Developer_activity_re_39tg.f3bd0b87.svg"
   },
@@ -29,6 +30,6 @@
     "static/js/runtime-main.b2b44885.js",
     "static/js/2.61d6dbbe.chunk.js",
     "static/css/main.a5e472fa.chunk.css",
-    "static/js/main.a0f9003b.chunk.js"
+    "static/js/main.6a227cf7.chunk.js"
   ]
 }
