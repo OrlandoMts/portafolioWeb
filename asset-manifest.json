@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portafolioWeb/static/css/main.a5e472fa.chunk.css",
-    "main.js": "/portafolioWeb/static/js/main.6a227cf7.chunk.js",
-    "main.js.map": "/portafolioWeb/static/js/main.6a227cf7.chunk.js.map",
+    "main.js": "/portafolioWeb/static/js/main.08932f3d.chunk.js",
+    "main.js.map": "/portafolioWeb/static/js/main.08932f3d.chunk.js.map",
     "runtime-main.js": "/portafolioWeb/static/js/runtime-main.b2b44885.js",
     "runtime-main.js.map": "/portafolioWeb/static/js/runtime-main.b2b44885.js.map",
     "static/js/2.61d6dbbe.chunk.js": "/portafolioWeb/static/js/2.61d6dbbe.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/lego.29ab3cef.png": "/portafolioWeb/static/media/lego.29ab3cef.png",
     "static/media/linkedin-brands.f4041044.svg": "/portafolioWeb/static/media/linkedin-brands.f4041044.svg",
     "static/media/medal-solid.464d2ce1.svg": "/portafolioWeb/static/media/medal-solid.464d2ce1.svg",
+    "static/media/merchandise.abda32df.png": "/portafolioWeb/static/media/merchandise.abda32df.png",
     "static/media/recipes.f06b6cdf.png": "/portafolioWeb/static/media/recipes.f06b6cdf.png",
     "static/media/rick-morty.52bae651.png": "/portafolioWeb/static/media/rick-morty.52bae651.png",
     "static/media/sneakers.9b48b4a3.png": "/portafolioWeb/static/media/sneakers.9b48b4a3.png",
@@ -30,6 +31,6 @@
     "static/js/runtime-main.b2b44885.js",
     "static/js/2.61d6dbbe.chunk.js",
     "static/css/main.a5e472fa.chunk.css",
-    "static/js/main.6a227cf7.chunk.js"
+    "static/js/main.08932f3d.chunk.js"
   ]
 }
