@@ -19,6 +19,7 @@ function Presentation() {
                     Ingeniero en sistemas y entusiasta de la tecnologia e inovacion.
                     Una gran motivación por seguir perfeccionando mis habilidades, crecer profesionalmente y nunca parar de aprender; son aspectos que determinan mi ruta profesional
                 </p>
+                <p>Estoy creando mi nuevo portafolio usando Next.js, aqui lo <a href="https://orlando-montes.vercel.app/">encuentras</a> </p>
                 <div className="div__container--btn">
                     <button onClick={btnCA}>Contactame</button>
                 </div>
